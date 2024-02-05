@@ -1,0 +1,39 @@
+header{
+    background-color:whitesmoke ;
+    color: black;
+    text-align: center;
+    font-size: 70px;
+}
+
+body{
+    background-color: rgb(223, 207, 190);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(77, 60, 94);
+}
+h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+
+}
+img{
+    height: 130px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+p{
+    text-align: center;
+    color: black;
+}
+li{
+    background-color: rgb(100, 41, 41);
+    text-align: center;
+}
+a{
+    color: white;
+}
